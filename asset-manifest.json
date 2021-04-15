@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ITOP-KOVALENKO-DMYTRO/static/css/main.65d576e8.chunk.css",
+    "main.js": "/ITOP-KOVALENKO-DMYTRO/static/js/main.09bffd85.chunk.js",
+    "main.js.map": "/ITOP-KOVALENKO-DMYTRO/static/js/main.09bffd85.chunk.js.map",
+    "runtime-main.js": "/ITOP-KOVALENKO-DMYTRO/static/js/runtime-main.d8cc5157.js",
+    "runtime-main.js.map": "/ITOP-KOVALENKO-DMYTRO/static/js/runtime-main.d8cc5157.js.map",
+    "static/js/2.3ea60ec4.chunk.js": "/ITOP-KOVALENKO-DMYTRO/static/js/2.3ea60ec4.chunk.js",
+    "static/js/2.3ea60ec4.chunk.js.map": "/ITOP-KOVALENKO-DMYTRO/static/js/2.3ea60ec4.chunk.js.map",
+    "static/js/3.6266197e.chunk.js": "/ITOP-KOVALENKO-DMYTRO/static/js/3.6266197e.chunk.js",
+    "static/js/3.6266197e.chunk.js.map": "/ITOP-KOVALENKO-DMYTRO/static/js/3.6266197e.chunk.js.map",
+    "index.html": "/ITOP-KOVALENKO-DMYTRO/index.html",
+    "static/css/main.65d576e8.chunk.css.map": "/ITOP-KOVALENKO-DMYTRO/static/css/main.65d576e8.chunk.css.map",
+    "static/js/2.3ea60ec4.chunk.js.LICENSE.txt": "/ITOP-KOVALENKO-DMYTRO/static/js/2.3ea60ec4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8cc5157.js",
+    "static/js/2.3ea60ec4.chunk.js",
+    "static/css/main.65d576e8.chunk.css",
+    "static/js/main.09bffd85.chunk.js"
+  ]
+}
